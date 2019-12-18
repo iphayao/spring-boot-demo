@@ -1,2 +1,2 @@
-# spring-boot-demo
-Collection demo project of Spring Boot
+# Spring Demo
+Collection demo project of Spring projects
